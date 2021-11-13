@@ -4,12 +4,12 @@ Kitchen Shelf Organizer is an IOS app helping users to organise kitchen shelf ef
 ## Requirements
 Kitchen Shelf Organiser is expected to provide below features.
 * User should be able to create shelves.
-* User should be able to Add/Delete/Update items with expriy date in selected shelf.
-* User should be able to search  the location of given item in the Kitchen.
+* User should be able to Add/Delete/Update items with expiry date in selected shelf.
+* User should be able to search the location of given item in the Kitchen.
 * App should show the list of items that are expiring in near future.
 
 ## High Level Design 
-<img src="./highLevelDiagram.png" width="600" height="600">
+<img src="./highLevelDiagram.png" width="800" height="600">
 
 ## Impementation Details
 ### Screen Details
